@@ -38,3 +38,23 @@ border-radius: 16px;
 
 <div id='div1'><h2 style='color:darkred'>Titke</h2>
 <p style='color:green'>content <br></div><br>
+
+
+
+try {
+
+postItem3. thumbnailUrl =
+
+JSONObject3.getJSONObject("media$thumbnail"). getString("url");
+
+101
+
+} catch (Exception e) {
+
+102
+
+Exception exception = e;
+
+103
+
+}
