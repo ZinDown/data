@@ -1,0 +1,40 @@
+{
+    "apyar": [
+           {
+            "title": " burmese-kaukswe-recipe ",
+            "image": "https://i.ibb.co/9wNh4DY/Screenshot-2025-01-10-13-23-00-064-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/burmese-kaukswe-recipe/",
+            "type": "web"
+        },
+          {
+            "title": " burmese-chicken-curry-recipe",
+            "image": "https://i.ibb.co/T48jDHQ/Screenshot-2025-01-10-13-25-04-364-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/burmese-chicken-curry-recipe/",
+            "type": "web"
+        },
+        {
+            "title": "easy-burmese-mohinga-recipe",
+            "image": "https://i.ibb.co/5TKZKfC/Screenshot-2025-01-10-13-27-22-497-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/easy-burmese-mohinga-recipe/",
+            "type": "web"
+        },
+        {
+            "title": "fiery-burmese-chicken-recipe",
+            "image": "https://i.ibb.co/N6cy5tp/Screenshot-2025-01-10-13-29-04-344-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/fiery-burmese-chicken-recipe/",
+            "type": "web"
+        },
+        {
+            "title": "burmese-pork-curry-recipe",
+            "image": "https://i.ibb.co/1Z4JcNt/Screenshot-2025-01-10-13-30-49-604-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/burmese-pork-curry-recipe/",
+            "type": "web"
+        },
+        {
+            "title": "burmese-khowsuey-recipe",
+            "image": "https://i.ibb.co/bzmmgZq/Screenshot-2025-01-10-13-32-44-079-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/burmese-khowsuey-recipe/",
+            "type": "web"
+        }
+    ]
+}
