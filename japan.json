@@ -1,0 +1,40 @@
+{
+    "apyar": [
+           {
+            "title": " shrimp-okonomiyaki ",
+            "image": "https://i.ibb.co/ZMft4Nb/Screenshot-2025-01-10-13-56-37-236-com-android-chrome.png",
+            "link": "https://www.spoonforkbacon.com/shrimp-okonomiyaki/",
+            "type": "web"
+        },
+          {
+            "title": " yakimeshi-japanese-fried-rice",
+            "image": "https://i.ibb.co/99VWvSX/Screenshot-2025-01-10-13-58-30-671-com-android-chrome.png",
+            "link": "https://norecipes.com/yakimeshi-japanese-fried-rice/",
+            "type": "web"
+        },
+        {
+            "title": "spanner-crab-rice-edamame-tobiko-recipe",
+            "image": "https://i.ibb.co/DbKD3bk/Screenshot-2025-01-10-14-00-00-667-com-android-chrome.png",
+            "link": "https://www.delicious.com.au/recipes/spanner-crab-rice-edamame-tobiko-recipe/f9xj3zbc?r=recipes/collections/l1y6brzi&nk=00e9d6474082d4f2239f3cb90bcc7c28-1736494205",
+            "type": "web"
+        },
+        {
+            "title": "green-tea-white-chocolate-cookies",
+            "image": "https://i.ibb.co/Q9Y7QzW/Screenshot-2025-01-10-14-02-03-777-com-android-chrome.png",
+            "link": "https://www.justonecookbook.com/green-tea-white-chocolate-cookies/",
+            "type": "web"
+        },
+        {
+            "title": "green-tea-ice-cream",
+            "image": "https://i.ibb.co/JR4NB6n/Screenshot-2025-01-10-14-03-30-771-com-android-chrome.png",
+            "link": "https://mildlymeandering.com/green-tea-ice-cream/",
+            "type": "web"
+        },
+        {
+            "title": "shrimp-tempura",
+            "image": "https://i.ibb.co/HD1mZ52/Screenshot-2025-01-10-14-05-19-080-com-android-chrome.png",
+            "link": "https://dinnerthendessert.com/shrimp-tempura/",
+            "type": "web"
+        }
+    ]
+}
