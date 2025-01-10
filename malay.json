@@ -1,0 +1,40 @@
+{
+    "apyar": [
+           {
+            "title": " recipe-assam-pedas-fish ",
+            "image": "https://i.ibb.co/P4NfzC1/asam-pedas-3-730x1095.jpg",
+            "link": "https://rasamalaysia.com/recipe-assam-pedas-fish/",
+            "type": "web"
+        },
+          {
+            "title": " curry-laksa",
+            "image": "https://i.ibb.co/QbPKz0H/h.webp",
+            "link": "https://www.rotinrice.com/curry-laksa/",
+            "type": "web"
+        },
+        {
+            "title": "hawker-style-mee-rebus",
+            "image": "https://i.ibb.co/Db0qjRN/Screenshot-2025-01-10-13-44-52-513-com-android-chrome.png",
+            "link": "https://www.asiaflavor.com/hawker-style-mee-rebus/",
+            "type": "web"
+        },
+        {
+            "title": "sweet-potato-and-ginger-soup",
+            "image": "https://i.ibb.co/RCqJGRs/Screenshot-2025-01-10-13-46-38-702-com-android-chrome.png",
+            "link": "https://whattocooktoday.com/chinese-sweet-potato-and-ginger-soup.html",
+            "type": "web"
+        },
+        {
+            "title": "malaysian-fish-curry-recipe",
+            "image": "https://i.ibb.co/Gs4YfHr/Malaysian-Fish-curry.jpg",
+            "link": "https://blog.seasonwithspice.com/2011/08/malaysian-fish-curry-by-nazlina-hussin.html?m=1",
+            "type": "web"
+        },
+        {
+            "title": "fiery-malaysian-beef-satay",
+            "image": "https://i.ibb.co/7rCfqRT/Screenshot-2025-01-10-13-50-18-124-com-android-chrome.png",
+            "link": "https://thewanderlustkitchen.com/fiery-malaysian-beef-satay/",
+            "type": "web"
+        }
+    ]
+}
