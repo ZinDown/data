@@ -1,12 +1,48 @@
 {
     "apyar": [
-           {
+       {
+            "title": " burmese-prawn-curry-recipe ",
+            "image": "https://i.ibb.co/C21zN3B/Screenshot-2025-01-12-08-47-45-016-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/burmese-prawn-curry-recipe/",
+            "type": "web"
+        },
+        {
+            "title": " easy-burmese-bouillabaisse",
+            "image": "https://i.ibb.co/GnBhK8C/Screenshot-2025-01-12-08-50-13-882-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/easy-burmese-bouillabaisse-recipe/",
+            "type": "web"
+        },
+        {
+            "title": "burmese-chicken-khao-soi-recipe",
+            "image": "https://i.ibb.co/9WzvcDv/Screenshot-2025-01-12-08-52-18-752-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/burmese-chicken-khao-soi-recipe/",
+            "type": "web"
+        },
+        {
+            "title": "burmese-vegan-coconut-curry-recipe",
+            "image": "https://i.ibb.co/9Ws4NdX/Screenshot-2025-01-12-08-53-23-231-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/burmese-vegan-coconut-curry-recipe/",
+            "type": "web"
+        },
+        {
+            "title": "burmese-tofu-with-garlic-recipe",
+            "image": "https://i.ibb.co/kyVsR88/Screenshot-2025-01-12-08-55-53-085-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/burmese-tofu-with-garlic-recipe/",
+            "type": "web"
+        },
+        {
+            "title": "burmese-fish-noodle-soup-recipe",
+            "image": "https://i.ibb.co/FHDJvLM/Screenshot-2025-01-12-08-57-27-080-com-android-chrome.png",
+            "link": "https://boondockingrecipes.com/burmese-fish-noodle-soup-recipe/",
+            "type": "web"
+        },
+        {
             "title": " burmese-kaukswe-recipe ",
             "image": "https://i.ibb.co/9wNh4DY/Screenshot-2025-01-10-13-23-00-064-com-android-chrome.png",
             "link": "https://boondockingrecipes.com/burmese-kaukswe-recipe/",
             "type": "web"
         },
-          {
+        {
             "title": " burmese-chicken-curry-recipe",
             "image": "https://i.ibb.co/T48jDHQ/Screenshot-2025-01-10-13-25-04-364-com-android-chrome.png",
             "link": "https://boondockingrecipes.com/burmese-chicken-curry-recipe/",
